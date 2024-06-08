@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**Manh-IT-K2/Manh-IT-K2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏄‍♂️ Manh-IT-K2
 
-Here are some ideas to get you started:
+**`Expertise (Programmer, Design, Creativity)`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Quan Van Manh, My short term goal is to become a junior App developer. I look forward to learning how to work in a professional environment, improving my skills and learning a lot of knowledge about App development.
+
+<p align="left">
+      <a href="https://github.com/Quynh-Linh-IT?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Manh-IT-K2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Manh-IT-K2?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Manh-IT-K2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://dart.dev/assets/img/iZel2Nms4j-443.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://asset.brandfetch.io/idYHMwWF60/idGhyEM0wZ.png" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/5968/5968363.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=manh-it-k2&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Manh-IT-K2&theme=gruvbox&border_radius=4.5) -->
+
+#
