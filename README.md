@@ -19,17 +19,20 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58DYxWj7WBQUuApDSU-GRNUuD9u6e_v6Kuw&s" />
 <img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" />
+<img align="left" alt="Switf" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SpringBoot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Switf" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://asset.brandfetch.io/idYHMwWF60/idGhyEM0wZ.png" />
 <img align="left" alt="AppWrite" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Oq-jWSvUgH5MJrnakgUKuXLr1DSkgfXmWg&s" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/5968/5968363.png" />
+
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
