@@ -5,7 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manh-IT-K2&label=Profile%20views&color=0e75b6&style=flat" alt="Manh-IT-K2" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/_q.maznh_04/" target="blank"><img src="https://img.shields.io/twitter/follow/Manh-IT-K2?logo=twitter&style=for-the-badge" alt="Manh-IT-K2"  </p>
+**`Expertise (Programmer, Design, Creativity)`**
+
+My name is Quan Van Manh, My short term goal is to become a junior App developer. I look forward to learning how to work in a professional environment, improving my skills and learning a lot of knowledge about App development.
+
+<p align="left">
+      <a href="https://github.com/Manh-IT-K2?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Manh-IT-K2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Manh-IT-K2?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Manh-IT-K2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
+
+---
 
 - 🔭 I’m currently **Student**
 
@@ -21,18 +32,6 @@
 <p align="left">
 <a href="https://www.youtube.com/channel/UCLG0p-picxxttFvNvUclb0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_q.maznh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-</p>
-
-
-**`Expertise (Programmer, Design, Creativity)`**
-
-My name is Quan Van Manh, My short term goal is to become a junior App developer. I look forward to learning how to work in a professional environment, improving my skills and learning a lot of knowledge about App development.
-
-<p align="left">
-      <a href="https://github.com/Manh-IT-K2?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Manh-IT-K2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Manh-IT-K2?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Manh-IT-K2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
