@@ -39,8 +39,8 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58DYxWj7WBQUuApDSU-GRNUuD9u6e_v6Kuw&s" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" />
-<img align="left" alt="Switf" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/S/swift-logo-F41F53A22D-seeklogo.com.png" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1024px-Kotlin_Icon.svg.png" />
+<img align="left" alt="Switf" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=24465&format=png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SpringBoot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
@@ -59,7 +59,7 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 
 
 ### 📊 Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=manh-it-k2&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manh-IT-K2&show_icons=true&theme=gruvbox)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manh-IT-K2&show_icons=true&locale=en&layout=compact" alt="Manh-IT-K2" /></p>
 
