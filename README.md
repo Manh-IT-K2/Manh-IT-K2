@@ -63,7 +63,7 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manh-IT-K2&show_icons=true&locale=en&layout=compact" alt="Manh-IT-K2" /></p>
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=Manh-IT-K2&theme=gruvbox&border_radius=4.5" alt="Manh-IT-K2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manh-IT-K2&" alt="Manh-IT-K2" /></p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Manh-IT-K2&theme=gruvbox&border_radius=4.5) -->
 
