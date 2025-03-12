@@ -20,7 +20,7 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 
 - 🔭 I’m currently **Student**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **React Native, MAUI**
 
 - 💬 Ask me about **Android , MEARN**
 
