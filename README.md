@@ -53,6 +53,7 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" />
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://blog.afi.io/content/images/2023/11/osrm.png" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2018/04/docker.png?fit=269%2C201&ssl=1" />
 
 <br />
