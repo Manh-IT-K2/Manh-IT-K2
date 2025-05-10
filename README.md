@@ -53,11 +53,9 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" />
-<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://blog.afi.io/content/images/2023/11/osrm.png" />
+<img align="left" alt="OSRM" width="30px" style="padding-right:10px;" src="https://blog.afi.io/content/images/2023/11/osrm.png" />
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/mapbox-icon-512x512-yi208wz2.png" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://images.sftcdn.net/images/t_app-icon-m/p/f8f40004-96d5-11e6-88c2-00163ec9f5fa/1688065098/php-logo.jpg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkNfvFOkeB9VqkaRdakjwXWXjPT3rydx1CDmpBDIt1W8DwfkxrxpJECw5rV1Lm_6EDQ&usqp=CAU" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2018/04/docker.png?fit=269%2C201&ssl=1" />
 
 <br />
 
