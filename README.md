@@ -59,6 +59,7 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 
 <br />
 
+---
 
 ### 📊 Stats
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manh-IT-K2&show_icons=true&theme=gruvbox)
