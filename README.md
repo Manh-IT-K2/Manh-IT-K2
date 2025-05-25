@@ -18,11 +18,11 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 
 ---
 
-- 🔭 I’m currently **Student**
+- 🔭 I am currently a **mobile developer collaborator**
 
-- 🌱 I’m currently learning **React Native, MAUI**
+- 🌱 I’m currently learning **PHP, Laravel**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android , Ios**
 
 - 📫 How to reach me **quanmanh901@gmail.com**
 
