@@ -26,7 +26,7 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 
 - 📫 How to reach me **quanmanh901@gmail.com**
 
-- ⚡ Fun fact **I am so BAD**
+- ⚡ Fun fact **I am so Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
