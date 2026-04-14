@@ -39,7 +39,7 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58DYxWj7WBQUuApDSU-GRNUuD9u6e_v6Kuw&s" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1024px-Kotlin_Icon.svg.png" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kotlin_icon_%282016-2021%29.svg/250px-Kotlin_icon_%282016-2021%29.svg.png" />
 <img align="left" alt="Switf" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=24465&format=png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="SpringBoot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -52,9 +52,9 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/gitlab-icon-2048x1885-1o0cwkbx.png" />
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.prod.website-files.com/657639ebfb91510f45654149/67f6a20bd169ab569ec254c0_gitlab-icon-1024x942-f30d1qro.png" />
 <img align="left" alt="OSRM" width="30px" style="padding-right:10px;" src="https://blog.afi.io/content/images/2023/11/osrm.png" />
-<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/mapbox-icon-512x512-yi208wz2.png" />
+<img align="left" alt="Mapbox" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2699/PNG/512/mapbox_logo_icon_169974.png" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://images.sftcdn.net/images/t_app-icon-m/p/f8f40004-96d5-11e6-88c2-00163ec9f5fa/1688065098/php-logo.jpg" />
 
 <br />
@@ -62,12 +62,7 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 ---
 
 ### 📊 Stats
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manh-IT-K2&show_icons=true&theme=gruvbox)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manh-IT-K2&show_icons=true&locale=en&layout=compact" alt="Manh-IT-K2" /></p>
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=MANH-IT-K2" alt="GitHub Streak" /></a>
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Manh-IT-K2&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Manh-IT-K2&theme=gruvbox&border_radius=4.5)
 
 #
