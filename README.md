@@ -20,7 +20,7 @@ My name is Quan Van Manh, My short term goal is to become a junior App developer
 
 - 🔭 I am currently a **mobile developer collaborator**
 
-- 🌱 I’m currently learning **PHP, Laravel**
+- 🌱 I’m currently learning **PHP, Laravel, Design**
 
 - 💬 Ask me about **Android , Ios**
 
