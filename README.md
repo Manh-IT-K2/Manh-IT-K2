@@ -7,7 +7,7 @@
 
 **`Expertise (Programmer, Design, Creativity, Mobile App)`**
 
-My name is Quan Van Manh, My short term goal is to become a junior App developer. I look forward to learning how to work in a professional environment, improving my skills and learning a lot of knowledge about App development.
+My name is Quan Van Manh, My long term goal is to become a Fullstack App developer. I look forward to learning how to work in a professional environment, improving my skills and learning a lot of knowledge about App development.
 
 <p align="left">
       <a href="https://github.com/Manh-IT-K2?tab=followers">
