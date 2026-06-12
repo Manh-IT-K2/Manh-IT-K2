@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manh-IT-K2&label=Profile%20views&color=0e75b6&style=flat" alt="Manh-IT-K2" /> </p>
 
-**`Expertise (Dev, Design, Creativity, Mobile App)`**
+**`Expertise (Deverloper, Design, Creativity, Mobile App)`**
 
 My name is Quan Van Manh, My long term goal is to become a Fullstack App developer. I look forward to learning how to work in a professional environment, improving my skills and learning a lot of knowledge about App development.
 
