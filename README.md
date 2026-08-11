@@ -1,68 +1,24 @@
-<h1 align="center">Hi 👋, I'm Manh-IT-K2 🎓</h1>
+<div align="center">
+  <a href="https://github.com/Manh-IT-K2">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=SYSTEM+BOOT...;Hi,+I'm+Quan+Van+Manh+(Manh-IT-K2);Mobile+App+Developer;Future+Fullstack+Engineer;Initializing+Protocols..." alt="Typing SVG" />
+  </a>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manh-IT-K2&label=Profile%20views&color=0e75b6&style=flat" alt="Manh-IT-K2" /> </p>
-
-**`Expertise (Dev, Design, UI/UX, Mobile App)`**
-
-My name is Quan Van Manh, My long term goal is to become a Fullstack App developer. I look forward to learning how to work in a professional environment, improving my skills and learning a lot of knowledge about App development.
-
-<p align="left">
-      <a href="https://github.com/Manh-IT-K2?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Manh-IT-K2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Manh-IT-K2?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Manh-IT-K2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manh-IT-K2&label=SYS.VIEWS&color=00FF9D&style=for-the-badge" alt="Views" />
+  <a href="https://github.com/Manh-IT-K2?tab=followers"><img src="https://img.shields.io/github/followers/Manh-IT-K2?color=8A2BE2&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" /></a>
+  <a href="https://github.com/Manh-IT-K2?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Manh-IT-K2?color=00BFFF&style=for-the-badge&logo=star&label=STARS" alt="Stars" /></a>
+</div>
 
 ---
 
-- 🔭 I am currently a **mobile developer**
+### 💻 `~/User/Manh-IT-K2/profile.json`
 
-- 🌱 I’m currently learning **PHP, Laravel, Design**
-
-- 💬 Ask me about **Android , Ios**
-
-- 📫 How to reach me **quanmanh901@gmail.com**
-
-- ⚡ Fun fact **I am so Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCLG0p-picxxttFvNvUclb0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_q.maznh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-</p>
-
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58DYxWj7WBQUuApDSU-GRNUuD9u6e_v6Kuw&s" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kotlin_icon_%282016-2021%29.svg/250px-Kotlin_icon_%282016-2021%29.svg.png" />
-<img align="left" alt="Switf" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=512&id=24465&format=png" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="SpringBoot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://asset.brandfetch.io/idYHMwWF60/idGhyEM0wZ.png" />
-<img align="left" alt="AppWrite" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Oq-jWSvUgH5MJrnakgUKuXLr1DSkgfXmWg&s" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/5968/5968363.png" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.prod.website-files.com/657639ebfb91510f45654149/67f6a20bd169ab569ec254c0_gitlab-icon-1024x942-f30d1qro.png" />
-<img align="left" alt="OSRM" width="30px" style="padding-right:10px;" src="https://blog.afi.io/content/images/2023/11/osrm.png" />
-<img align="left" alt="Mapbox" width="30px" style="padding-right:10px;" src="https://images.icon-icons.com/2699/PNG/512/mapbox_logo_icon_169974.png" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://images.sftcdn.net/images/t_app-icon-m/p/f8f40004-96d5-11e6-88c2-00163ec9f5fa/1688065098/php-logo.jpg" />
-
-<br />
-
----
-
-### 📊 Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manh-IT-K2&theme=gruvbox&border_radius=4.5)
-
-#
+```json
+{
+  "name": "Quan Van Manh",
+  "alias": "Manh-IT-K2",
+  "expertise": ["Dev", "Design", "UI/UX", "Mobile App"],
+  "mission": "Become a Fullstack App Developer. Master professional workflows, improve technical skills, and engineer cutting-edge applications.",
+  "fun_fact": "I compile code and jokes with zero errors. (I am so funny!)"
+}
